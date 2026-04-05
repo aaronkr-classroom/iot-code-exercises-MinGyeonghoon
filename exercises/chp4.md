@@ -1,5 +1,6 @@
 slide 7 dict 사전코드 작성
 
+
 sensors = {
     'dht11': {
         'temperature': 23,
@@ -11,7 +12,13 @@ sensors = {
         'unit': 'lux'
     }
 }
+
+
+
+
 slide 33 - 2, 3, 4 코드 작성 thonny
+
+
 
 2.
 month = int(input("월을 입력하세요: "))
