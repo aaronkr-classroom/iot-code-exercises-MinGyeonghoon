@@ -7,3 +7,5 @@ Repository for code and exercises
 -[9장 dht22](https://wokwi.com/projects/463683222098280449)
 -[9장 bh170](https://wokwi.com/projects/463684966664773633)
 -[9장 ds18d20](https://wokwi.com/projects/463687110562656257)
+
+<img width="939" height="672" alt="스크린샷 2026-06-01 112900" src="https://github.com/user-attachments/assets/f2c730af-fcdd-41af-ab62-a0df96872947" />
